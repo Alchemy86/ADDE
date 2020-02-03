@@ -1,0 +1,36 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.DotSettings.user
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Pp]ublish/
+node_modules/
+
+# ignore IS4 developer certificates for JWT signing
+tempkey.rsa
+
+## Covers JetBrains IDE | Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+.idea/**/workspace.xml
+.idea/**/usage.statistics.xml
+.idea/**/contentModel.xml
+.idea/**/dataSources.local.xml
+.idea/**/riderModule.iml
+.idea/.idea.Cascade.Auth/.idea/dataSources.xml
+.idea/.idea.Cascade.Auth/.idea/sqldialects.xml
+.idea/**/dataSources/*
+
+## Covers Visual Studio
+.vs/
+
+## Covers VS Code
+.vscode/
+!.vscode/launch.json
+!.vscode/tasks.json

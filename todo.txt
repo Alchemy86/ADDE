@@ -1,0 +1,15 @@
+New Cascade ADDE:
+
+> Logging
+    - Install Serilog + Event Log sink
+    - Simple config to target appropriate event log source
+    - Simple config switch to set log level
+    - Write startup-level events to log
+
+> 
+
+
+
+NOTES:
+
+https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/windows-service?view=aspnetcore-3.1&tabs=visual-studio

@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Cascade.DirectoryAgent": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
